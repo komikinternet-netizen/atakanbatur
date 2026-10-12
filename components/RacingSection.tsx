@@ -1,0 +1,17 @@
+import { ArrowUpRight, Flag, Trophy, Users } from "lucide-react";
+
+const stats = [{ value: "iRacing", label: "Platform" }, { value: "24H", label: "Dayanıklılık" }, { value: "P1", label: "Hedef" }];
+
+export default function RacingSection() {
+  return (
+    <section id="racing" className="section-pad scroll-mt-20">
+      <div className="container-wide">
+        <div className="grid gap-10 lg:grid-cols-[1.1fr_.9fr] lg:items-end"><div><span className="section-kicker eyebrow-line">Push N Box Racing Team</span><h2 className="section-title">Her virajda<br />birlikte.</h2><p className="section-copy mt-5">Bir ekip, ortak bir çizgi. Push N Box Racing ile endurance yarışlarında, her stintte takım için sürüyoruz.</p></div><div className="grid grid-cols-3 border border-white/10">{stats.map(({ value, label }) => <div key={label} className="border-r border-white/10 p-4 last:border-r-0 sm:p-6"><span className="block font-display text-2xl font-black text-orange sm:text-3xl">{value}</span><span className="mt-1 block text-[9px] font-semibold uppercase tracking-[1px] text-zinc-500 sm:text-[10px]">{label}</span></div>)}</div></div>
+        <div className="mt-12 grid gap-5 md:grid-cols-2">
+          <a href="https://www.youtube.com/results?search_query=Daytona+sim+racing+race+highlights" target="_blank" rel="noreferrer" className="group relative flex min-h-[280px] flex-col justify-between overflow-hidden border border-white/10 bg-[linear-gradient(120deg,#22262b,#111317_70%)] p-7 transition hover:border-orange/50"><div className="absolute inset-0 bg-[radial-gradient(ellipse_at_75%_25%,rgba(61,214,208,.13),transparent_55%)] transition group-hover:opacity-150" /><span className="relative flex items-center gap-2 text-[10px] font-bold uppercase tracking-[1.5px] text-cyan"><Flag size={15} /> Yarış özeti</span><div className="relative"><h3 className="font-display text-3xl font-bold uppercase">Daytona&apos;da<br />muhteşem kapışma</h3><span className="mt-4 inline-flex items-center gap-2 text-xs font-bold uppercase text-zinc-400 group-hover:text-white">Videoyu izle <ArrowUpRight size={15} /></span></div></a>
+          <div className="flex min-h-[280px] flex-col justify-between border border-white/10 bg-[#17181b] p-7"><span className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-[1.5px] text-orange"><Trophy size={15} /> Ekibin sıradaki hikâyesi</span><div><h3 className="font-display text-3xl font-bold uppercase">Grid&apos;de<br />yerin hazır.</h3><p className="mt-3 max-w-sm text-sm leading-6 text-zinc-500">24 saatlik dayanıklılık. Takım telsizi, temiz stintler ve ortak hedef: Push N Box&apos;a katıl.</p></div><div className="flex flex-wrap gap-3"><a href="https://discord.com/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 bg-orange px-4 py-3 text-[10px] font-bold uppercase tracking-[.8px] transition hover:bg-[#ff7043]"><Users size={14} /> Sürücü başvurusu</a><a href="https://discord.com/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 border border-white/15 px-4 py-3 text-[10px] font-bold uppercase tracking-[.8px] transition hover:border-white/40">Discord topluluğu <ArrowUpRight size={14} /></a></div></div>
+        </div>
+      </div>
+    </section>
+  );
+}

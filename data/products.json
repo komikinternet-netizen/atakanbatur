@@ -1,0 +1,110 @@
+[
+  {
+    "id": "tshirt-studio-pit-vintage",
+    "name": "Atakan Batur 'Studio & Pit' Vintage Heavyweight T-Shirt",
+    "category": "T-Shirt",
+    "price": 699,
+    "currency": "TRY",
+    "image": "/merch/atakanb-tshirt.jpg",
+    "badge": "En Çok Satan",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "shortDesc": "Gitar sapı, yarış pistonları ve eskitme vintage rock baskılı 240 GSM tişört.",
+    "inStock": true
+  },
+  {
+    "id": "tshirt-racer-samurai-streetwear",
+    "name": "Samurai on Track Karikatür Avatar Streetwear T-Shirt",
+    "category": "T-Shirt",
+    "price": 749,
+    "currency": "TRY",
+    "image": "/merch/atakanb2-tshirt.jpg",
+    "badge": "Yeni Çıkan",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "shortDesc": "Kasklı samuray avatar ve Fender gitar temalı neon graffiti oversize tişört.",
+    "inStock": true
+  },
+  {
+    "id": "cap-directdrive-soundwave",
+    "name": "Direct-Drive & Equalizer 3D Nakışlı Motorsport Snapback",
+    "category": "Şapka",
+    "price": 499,
+    "currency": "TRY",
+    "image": "/merch/1x-sapka.jpg",
+    "badge": "Özel Seri",
+    "sizes": ["Tek Ebat (Ayarlanabilir)"],
+    "shortDesc": "Yarış direksiyonu göbeği ve ekolayzer işlemeli 3D kabarık nakışlı siyah şapka.",
+    "inStock": true
+  },
+  {
+    "id": "cap-outrun-gt3-sunset",
+    "name": "Outrun 80s GT3 Neon Sunset Retro Yarış Şapkası",
+    "category": "Şapka",
+    "price": 479,
+    "currency": "TRY",
+    "image": "/merch/sunporshe-sapka.jpg",
+    "badge": "Limitli Üretim",
+    "sizes": ["Tek Ebat (Ayarlanabilir)"],
+    "shortDesc": "80'ler synthwave batan güneş ve GT3 otomobil dokuma armalı kavisli şapka.",
+    "inStock": true
+  },
+  {
+    "id": "deskmat-daytona-telemetry",
+    "name": "Daytona 24h Telemetry & Soundwave XXL Gaming Deskmat",
+    "category": "Mousepad",
+    "price": 599,
+    "currency": "TRY",
+    "image": "/merch/daytona-mousepad.jpg",
+    "badge": "Popüler",
+    "sizes": ["900x400x4 mm"],
+    "shortDesc": "Daytona pist krokisi, yarış telemetrisi ve turkuaz dikişli devasa kumaş masa pedi.",
+    "inStock": true
+  },
+  {
+    "id": "deskmat-guitar-track-circuit",
+    "name": "Neon Circuit Fretboard Synthwave XXL Gaming Deskmat",
+    "category": "Mousepad",
+    "price": 599,
+    "currency": "TRY",
+    "image": "/merch/guiatrack-mousepad.jpg",
+    "badge": "Tasarım Ödüllü",
+    "sizes": ["900x400x4 mm"],
+    "shortDesc": "Elektro gitar klavyesini yarış pistine dönüştüren mor neon siberpunk masa pedi.",
+    "inStock": true
+  },
+  {
+    "id": "deskmat-pushnbox-team-livery",
+    "name": "Push N Box Racing Team Official Livery XXL Deskmat",
+    "category": "Mousepad",
+    "price": 599,
+    "currency": "TRY",
+    "image": "/merch/pushnbox-mousepad.jpg",
+    "badge": "Resmi Takım",
+    "sizes": ["900x400x4 mm"],
+    "shortDesc": "Resmi yarış takımı renkleri, alev çizgileri ve damalı bayrak desenli masa pedi.",
+    "inStock": true
+  },
+  {
+    "id": "mug-rocknroll-pistons",
+    "name": "Rock & Roll Wings & Pistons Mat Siyah Seramik Kupa",
+    "category": "Kupa & Bardak",
+    "price": 299,
+    "currency": "TRY",
+    "image": "/merch/rocknroll-cup.jpg",
+    "badge": "Stüdyo Favorisi",
+    "sizes": ["11 oz / 330 ml"],
+    "shortDesc": "Kanatlı amfi piston ve elektro gitar logolu mat siyah dayanıklı seramik kupa.",
+    "inStock": true
+  },
+  {
+    "id": "mug-tachometer-soundwave",
+    "name": "Tachometer RPM & Soundwave Neon Mat Kupa",
+    "category": "Kupa & Bardak",
+    "price": 299,
+    "currency": "TRY",
+    "image": "/merch/speed-cup.jpg",
+    "badge": "Yarış Ruhu",
+    "sizes": ["11 oz / 330 ml"],
+    "shortDesc": "10.000 devir göstergesi ve neon ses dalgası sarmallı mat siyah seramik kupa.",
+    "inStock": true
+  }
+]

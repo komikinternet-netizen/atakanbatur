@@ -1,0 +1,341 @@
+================================================================================
+ATAKAN BATUR MERCHANDISE RESMİ MAĞAZA ÜRÜN VERİ TABANI & DETAY DOSYASI
+(GitHub Codespaces / Next.js / Shopify / Shopier Entegrasyonuna Hazır)
+================================================================================
+
+Bu dosya, sitedeki Merch vitrinini ayağa kaldırmak için gereken tüm ürün başlıklarını,
+açıklamalarını, teknik özelliklerini, fiyatlarını, varyantlarını ve görsel dosya eşleşmelerini içerir.
+
+Görsellerin hepsi 3 panelli profesyonel stüdyo katalog çekimidir:
+- Panel 1: Tam Ürün Görünümü (Front Flat-lay / Isometric)
+- Panel 2: Malzeme & Dikiş/Baskı Detayı (Macro Texture)
+- Panel 3: In-Situ Lifestyle / Setup & Garaj Konsepti
+
+--------------------------------------------------------------------------------
+1. T-SHIRT KOLEKSİYONU
+--------------------------------------------------------------------------------
+
+[ÜRÜN 01]
+ID: tshirt-studio-pit-vintage
+Başlık: Atakan Batur "Studio & Pit" Vintage Heavyweight T-Shirt
+Kategori: T-Shirt
+Fiyat: 699 TL / $29.99
+Görsel Dosyası: atakanb-tshirt.jpg
+Etiketler: ["Rock", "Vintage", "Motorsport", "Studio", "Heavyweight"]
+Kısa Açıklama:
+Elektro gitar sapı, yarış pistonları, bujiler ve damalı bayrak armasıyla "Studio & Pit" ruhunu yansıtan vintage eskitme baskılı premium tişört.
+
+Detaylı Açıklama:
+Atakan Batur'un müzik stüdyosu ve yarış garajı arasındaki çift hayatından ilham alan "Studio & Pit" amblemi, 90'lar rock grubu turne tişörtü estetiğiyle tasarlandı. %100 ağır gramajlı pamuklu kumaşı ve nefes alan nefis serigrafi baskısıyla hem günlük sokak modasında hem de uzun simracing yarış seanslarında maksimum konfor sağlar.
+
+Teknik Özellikler:
+- Kumaş: 240 GSM %100 Ağır Gramajlı Taranmış Pamuk (Heavyweight Cotton)
+- Kalıp: Rahat Düşük Omuzlu Oversize / Relaxed Fit
+- Baskı Tekniği: Yıkamaya Dayanıklı Yumuşak Tuşeli Premium Serigrafi (Distressed Vintage)
+- Yaka: Ribana güçlendirilmiş yakalık (şekil koruyucu çift dikiş)
+- Renk: Asfalt Siyahı (Washed Matte Black)
+- Beden Seçenekleri: S, M, L, XL, XXL
+
+---
+
+[ÜRÜN 02]
+ID: tshirt-racer-samurai-streetwear
+Başlık: "Samurai on Track" Karikatür Avatar Streetwear T-Shirt
+Kategori: T-Shirt
+Fiyat: 749 TL / $31.99
+Görsel Dosyası: atakanb2-tshirt.jpg
+Etiketler: ["Streetwear", "Avatar", "Graffiti", "Fender", "Oversized"]
+Kısa Açıklama:
+Kasklı, sakallı, topuz saçlı yarışçı samuray avatarı ve Fender Stratocaster gitarı bir araya getiren neon grafiti tarzı sokak modası tişörtü.
+
+Detaylı Açıklama:
+Atakan'ın ikonik karikatür karakterinin yarış kaskını takıp elektro gitarıyla solo attığı graffiti & splash art tasarımı. Canlı turuncu ve neon turkuaz detaylarla karanlık garajın içinde parlayan yüksek enerjili bir streetwear parçası.
+
+Teknik Özellikler:
+- Kumaş: 260 GSM Premium Organik Kompakt Pamuk
+- Kalıp: Tam Oversize Streetwear Fit
+- Baskı Tekniği: Yüksek Çözünürlüklü HD Dijital Serigrafi (Canlı neon renk pigmentleri)
+- Detaylar: Çift dikişli manşetler, ter emici iç ense şeridi
+- Renk: Gece Siyahı (Pitch Black)
+- Beden Seçenekleri: S, M, L, XL, XXL
+
+--------------------------------------------------------------------------------
+2. ŞAPKA (CAP) KOLEKSİYONU
+--------------------------------------------------------------------------------
+
+[ÜRÜN 03]
+ID: cap-directdrive-soundwave
+Başlık: Direct-Drive & Equalizer 3D Nakışlı Motorsport Snapback
+Kategori: Şapka
+Fiyat: 499 TL / $21.99
+Görsel Dosyası: 1x-sapka.jpg
+Etiketler: ["Snapback", "Embroidery", "Equalizer", "Simracing", "Matte Black"]
+Kısa Açıklama:
+Simülasyon yarış direksiyonu göbeği ve ses frekansı çubuklarını birleştiren yüksek yoğunluklu 3D kabartma nakışlı yarış şapkası.
+
+Detaylı Açıklama:
+Direct-Drive direksiyon simidinin merkezinden yükselen kırmızı-gri ekolayzer grafiği, hem telemetry eğrilerini hem de amfinin ses baslarını temsil eder. Arkadaki ayarlanabilir metal tokalı deri kayışı ve havalandırma delikleriyle kafaya tam oturur.
+
+Teknik Özellikler:
+- Model: 6 Panelli Yapılandırılmış A-Frame Motorsport Snapback
+- Nakış: 3D Kabartmalı Yüksek Yoğunluklu İplik Nakış (High-Density 3D Embroidery)
+- Arka Kapanış: Özel Lazer İşlemeli Metal Tokalı Mat Siyah Ayarlanabilir Kayış
+- Siperlik: Kavisli Yarış Siperliği (Curved Visor), altı ton sür ton siyah dikiş
+- Kumaş: %100 Dayanıklı Premium Pamuk Twill
+- Beden: Standart Ayarlanabilir (One Size Fits All / 54-61 cm)
+
+---
+
+[ÜRÜN 04]
+ID: cap-outrun-gt3-sunset
+Başlık: "Outrun 80s" GT3 Neon Sunset Retro Yarış Şapkası
+Kategori: Şapka
+Fiyat: 479 TL / $19.99
+Görsel Dosyası: sunporshe-sapka.jpg
+Etiketler: ["Synthwave", "GT3", "Outrun", "Patch", "Retro"]
+Kısa Açıklama:
+Neon neon ızgara zemininde batan güneş ve GT3 yarış otomobili silüetini taşıyan retro synthwave arma şapka.
+
+Detaylı Açıklama:
+80'lerin retro dalgası, synth melodileri ve gece yarışlarının büyüsü bu tasarımda buluştu. Özel dokuma renkli kalkan arma yaması, mat siyah kumaş üzerinde neon pembe ve camgöbeği ışıltısıyla öne çıkar.
+
+Teknik Özellikler:
+- Model: Yapılandırılmış Klasik Kavisli Siperlikli Beyzbol Şapkası
+- Ön Detay: Lazer Kesim Kenarlı Çok Renkli HD Dokuma Kalkan Arma (Shield Patch)
+- Arka Kapanış: Metal Sürgülü Ayar Mekanizması
+- İç Yapı: Ter bandı dolgulu nefes alan ön paneller
+- Kumaş: %100 Pamuklu Gabardin
+- Beden: Standart Ayarlanabilir (54-60 cm)
+
+--------------------------------------------------------------------------------
+3. MOUSEPAD / DESKMAT (XXL MASA PEDİ - 900x400 MM)
+--------------------------------------------------------------------------------
+
+[ÜRÜN 05]
+ID: deskmat-daytona-telemetry
+Başlık: Daytona 24h Telemetry & Soundwave XXL Gaming Deskmat
+Kategori: Mousepad
+Fiyat: 599 TL / $24.99
+Görsel Dosyası: daytona-mousepad.jpg
+Etiketler: ["Deskmat", "Daytona", "Telemetry", "Cyan", "900x400"]
+Kısa Açıklama:
+Daytona pist krokisi, yarış telemetrisi verileri ve ses mikser fader'larını karbonfiber arka planda sunan 900x400mm masayı kaplayan dev mousepad.
+
+Detaylı Açıklama:
+Atakan Batur'un iRacing'deki en unutulmaz Daytona mücadelelerine saygı duruşu niteliğinde tasarlanan bu deskmat; gaz, fren, G-force telemetri eğrilerini bir ses masasının desibel göstergeleriyle harmanlar. Turkuaz dikişli kenarları ve ultra akıcı kumaş yüzeyi ile espor seviyesinde kayma hassasiyeti sunar.
+
+Teknik Özellikler:
+- Boyut: 900 x 400 mm (Genişletilmiş XXL Battlestation Boyutu)
+- Kalınlık: 4 mm Yoğunlaştırılmış Darbe Emici Kauçuk
+- Yüzey: Hızlı & Kontrollü Mikro-Dokuma Speed/Control Hibrit Kumaş Yüzey
+- Kenar: 360° Çözülmez Neon Turkuaz Sıkı Kenar Dikişi (Overlock Stitching)
+- Taban: Masaya Kilitlenen Kaymaz Doğal Kauçuk Zikzak Taban
+
+---
+
+[ÜRÜN 06]
+ID: deskmat-guitar-track-circuit
+Başlık: Neon Circuit Fretboard Synthwave XXL Gaming Deskmat
+Kategori: Mousepad
+Fiyat: 599 TL / $24.99
+Görsel Dosyası: guiatrack-mousepad.jpg
+Etiketler: ["Synthwave", "Guitar", "Fretboard", "Purple Neon", "900x400"]
+Kısa Açıklama:
+Elektro gitar gövdesinin dev bir yarış pistine, klavyesinin ise ışık hızında düzlüklere dönüştüğü mor ve fuşya neon masa pedi.
+
+Detaylı Açıklama:
+Müzik ve yarışın tam merkezinde bir tasarım: Elektro gitarın perdeleri birer yarış şeridine, gövdesi ise virajlı bir gece pistine dönüşüyor. Mor, pembe ve neon ışıklarıyla simrig ve oyun masanıza büyüleyici bir siberpunk havası katar.
+
+Teknik Özellikler:
+- Boyut: 900 x 400 mm
+- Kalınlık: 4 mm
+- Yüzey: Su İtici Kaplamalı Nano-Mikrofiber Kumaş (Sıvı dökülmelerine karşı dayanıklı)
+- Kenar: Renk Uyumlu Mor Özel İplik Çift Dikiş
+- Taban: Masada Asla Kaymayan Doğal Kauçuk Taban
+
+---
+
+[ÜRÜN 07]
+ID: deskmat-pushnbox-team-livery
+Başlık: Push N Box Racing Team Official Livery XXL Deskmat
+Kategori: Mousepad
+Fiyat: 599 TL / $24.99
+Görsel Dosyası: pushnbox-mousepad.jpg
+Etiketler: ["Push N Box", "Livery", "Racing Team", "Orange Fire", "Esports"]
+Kısa Açıklama:
+Push N Box Racing Team resmi yarış arabası grafiği, alev kırmızısı hız çizgileri ve damalı bayrak desenli resmi takım masa pedi.
+
+Detaylı Açıklama:
+Resmi yarış takımı Push N Box'ın GT3 ve prototip araçlarında kullanılan agresif renk paleti masanızda. Topoğrafik yükseklik eğrileri, damalı bayrak geçişleri ve ortadan geçen ses frekansı çizgileriyle doğrudan pitten çıkmış hissi verir.
+
+Teknik Özellikler:
+- Boyut: 900 x 400 mm
+- Kalınlık: 4 mm
+- Yüzey: Ultra Hassas Optik/Lazer Fare Sensörü Uyumlu Pürüzsüz Kumaş
+- Kenar: Yıpranmaya Karşı Güçlendirilmiş Siyah Overlock Dikiş
+- Taban: Ağır Hizmet Tipi Doğal Kauçuk Kaydırmaz Taban
+
+--------------------------------------------------------------------------------
+4. KUPA & BARDAK (CERAMIC MUG - 11 OZ / 330 ML)
+--------------------------------------------------------------------------------
+
+[ÜRÜN 08]
+ID: mug-rocknroll-pistons
+Başlık: "Rock & Roll" Wings & Pistons Mat Siyah Seramik Kupa
+Kategori: Kupa & Bardak
+Fiyat: 299 TL / $12.99
+Görsel Dosyası: rocknroll-cup.jpg
+Etiketler: ["Mug", "Ceramic", "Rock", "Pistons", "Guitar", "Matte Black"]
+Kısa Açıklama:
+Melek kanatları, çift motor pistonu ve elektro gitar amblemiyle sabah kahvenizi yarış ve rock enerjisiyle dolduran 330ml kupa.
+
+Detaylı Açıklama:
+Yayın öncesi sıcak kahvenizi veya çayınızı yudumlarken stüdyo ve garaj havasını hissettirecek özel tasarım. Şık mat siyah dış yüzeyi ve parlak siyah kulp detaylarıyla amfilerin ve ses mikserlerinin yanına kusursuz uyum sağlar.
+
+Teknik Özellikler:
+- Hacim: 11 oz / ~330 ml
+- Malzeme: Yüksek Kaliteli 1. Sınıf Mat Siyah Seramik
+- Baskı: Çift Taraflı Isı Transferli Yüksek Çözünürlüklü Süblimasyon Baskı
+- Dayanıklılık: Bulaşık Makinesinde ve Mikrodalga Fırında Kullanıma Uygun
+- Renk: Mat Siyah Gövde, Parlak Kulp ve Pürüzsüz İç Yüzey
+
+---
+
+[ÜRÜN 09]
+ID: mug-tachometer-soundwave
+Başlık: Tachometer RPM & Soundwave Neon Mat Kupa
+Kategori: Kupa & Bardak
+Fiyat: 299 TL / $12.99
+Görsel Dosyası: speed-cup.jpg
+Etiketler: ["Mug", "Tachometer", "RPM", "Soundwave", "Neon", "Cyberpunk"]
+Kısa Açıklama:
+Kırmızı çizgide 10.000 RPM devir göstergesi ve neon ses dalgası geçişleriyle güne yüksek devirde başlatan yarış kupası.
+
+Detaylı Açıklama:
+Simülasyonda gaza sonuna kadar bastığınız o anın hissi: Canlı neon turuncu devir ibresi, camgöbeği telemetri göstergeleri ve ses frekansı dalgaları siyah porselen üzerinde adeta ışıldar.
+
+Teknik Özellikler:
+- Hacim: 11 oz / ~330 ml
+- Malzeme: Isıya Dayanıklı Kalın Etli Mat Seramik
+- Baskı: Solmaz, Soyulmaz 360° Panoramic Wrap Sublimasyon Baskı
+- Dayanıklılık: Mikrodalga ve Bulaşık Makinesi Güvenli
+- Renk: Premium Mat Kömür Siyahı
+
+================================================================================
+5. GITHUB CODESPACES / NEXT.JS İÇİN JSON FORMATI (KOD VERİSİ)
+================================================================================
+Geliştiricinin doğrudan `data/products.json` veya `lib/merchData.ts` olarak kullanabileceği JSON yapısı:
+
+```json
+[
+  {
+    "id": "tshirt-studio-pit-vintage",
+    "name": "Atakan Batur 'Studio & Pit' Vintage Heavyweight T-Shirt",
+    "category": "T-Shirt",
+    "price": 699,
+    "currency": "TRY",
+    "image": "/merch/atakanb-tshirt.jpg",
+    "badge": "En Çok Satan",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "shortDesc": "Gitar sapı, yarış pistonları ve eskitme vintage rock baskılı 240 GSM tişört.",
+    "inStock": true
+  },
+  {
+    "id": "tshirt-racer-samurai-streetwear",
+    "name": "Samurai on Track Karikatür Avatar Streetwear T-Shirt",
+    "category": "T-Shirt",
+    "price": 749,
+    "currency": "TRY",
+    "image": "/merch/atakanb2-tshirt.jpg",
+    "badge": "Yeni Çıkan",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "shortDesc": "Kasklı samuray avatar ve Fender gitar temalı neon graffiti oversize tişört.",
+    "inStock": true
+  },
+  {
+    "id": "cap-directdrive-soundwave",
+    "name": "Direct-Drive & Equalizer 3D Nakışlı Motorsport Snapback",
+    "category": "Şapka",
+    "price": 499,
+    "currency": "TRY",
+    "image": "/merch/1x-sapka.jpg",
+    "badge": "Özel Seri",
+    "sizes": ["Tek Ebat (Ayarlanabilir)"],
+    "shortDesc": "Yarış direksiyonu göbeği ve ekolayzer işlemeli 3D kabarık nakışlı siyah şapka.",
+    "inStock": true
+  },
+  {
+    "id": "cap-outrun-gt3-sunset",
+    "name": "Outrun 80s GT3 Neon Sunset Retro Yarış Şapkası",
+    "category": "Şapka",
+    "price": 479,
+    "currency": "TRY",
+    "image": "/merch/sunporshe-sapka.jpg",
+    "badge": "Limitli Üretim",
+    "sizes": ["Tek Ebat (Ayarlanabilir)"],
+    "shortDesc": "80'ler synthwave batan güneş ve GT3 otomobil dokuma armalı kavisli şapka.",
+    "inStock": true
+  },
+  {
+    "id": "deskmat-daytona-telemetry",
+    "name": "Daytona 24h Telemetry & Soundwave XXL Gaming Deskmat",
+    "category": "Mousepad",
+    "price": 599,
+    "currency": "TRY",
+    "image": "/merch/daytona-mousepad.jpg",
+    "badge": "Popüler",
+    "sizes": ["900x400x4 mm"],
+    "shortDesc": "Daytona pist krokisi, yarış telemetrisi ve turkuaz dikişli devasa kumaş masa pedi.",
+    "inStock": true
+  },
+  {
+    "id": "deskmat-guitar-track-circuit",
+    "name": "Neon Circuit Fretboard Synthwave XXL Gaming Deskmat",
+    "category": "Mousepad",
+    "price": 599,
+    "currency": "TRY",
+    "image": "/merch/guiatrack-mousepad.jpg",
+    "badge": "Tasarım Ödüllü",
+    "sizes": ["900x400x4 mm"],
+    "shortDesc": "Elektro gitar klavyesini yarış pistine dönüştüren mor neon siberpunk masa pedi.",
+    "inStock": true
+  },
+  {
+    "id": "deskmat-pushnbox-team-livery",
+    "name": "Push N Box Racing Team Official Livery XXL Deskmat",
+    "category": "Mousepad",
+    "price": 599,
+    "currency": "TRY",
+    "image": "/merch/pushnbox-mousepad.jpg",
+    "badge": "Resmi Takım",
+    "sizes": ["900x400x4 mm"],
+    "shortDesc": "Resmi yarış takımı renkleri, alev çizgileri ve damalı bayrak desenli masa pedi.",
+    "inStock": true
+  },
+  {
+    "id": "mug-rocknroll-pistons",
+    "name": "Rock & Roll Wings & Pistons Mat Siyah Seramik Kupa",
+    "category": "Kupa & Bardak",
+    "price": 299,
+    "currency": "TRY",
+    "image": "/merch/rocknroll-cup.jpg",
+    "badge": "Stüdyo Favorisi",
+    "sizes": ["11 oz / 330 ml"],
+    "shortDesc": "Kanatlı amfi piston ve elektro gitar logolu mat siyah dayanıklı seramik kupa.",
+    "inStock": true
+  },
+  {
+    "id": "mug-tachometer-soundwave",
+    "name": "Tachometer RPM & Soundwave Neon Mat Kupa",
+    "category": "Kupa & Bardak",
+    "price": 299,
+    "currency": "TRY",
+    "image": "/merch/speed-cup.jpg",
+    "badge": "Yarış Ruhu",
+    "sizes": ["11 oz / 330 ml"],
+    "shortDesc": "10.000 devir göstergesi ve neon ses dalgası sarmallı mat siyah seramik kupa.",
+    "inStock": true
+  }
+]
+```
+================================================================================

@@ -1,0 +1,26 @@
+import { ArrowUpRight, Headphones, Play, Youtube } from "lucide-react";
+
+export default function MusicSection() {
+  return (
+    <section id="music" className="section-pad carbon-surface scroll-mt-20">
+      <div className="container-wide">
+        <div className="flex flex-col justify-between gap-5 md:flex-row md:items-end"><div><span className="section-kicker eyebrow-line">Amfi açık, kayıt dönüyor</span><h2 className="section-title">Müzik odası.</h2></div><div className="flex flex-wrap gap-2"><a href="https://open.spotify.com/" target="_blank" rel="noreferrer" className="border border-white/15 px-4 py-2.5 text-[10px] font-bold uppercase tracking-[1px] transition hover:border-orange">Spotify <ArrowUpRight size={13} className="ml-1 inline" /></a><a href="https://music.apple.com/" target="_blank" rel="noreferrer" className="border border-white/15 px-4 py-2.5 text-[10px] font-bold uppercase tracking-[1px] transition hover:border-orange">Apple Music <ArrowUpRight size={13} className="ml-1 inline" /></a></div></div>
+        <div className="mt-10 grid gap-5 lg:grid-cols-[1.1fr_.9fr]">
+          <article className="border border-white/10 bg-[#101114] p-5 sm:p-7"><div className="mb-5 flex items-center gap-3"><span className="grid h-10 w-10 place-items-center bg-orange/10 text-orange"><Headphones size={19} /></span><span><span className="block font-display text-xl font-bold uppercase">Atakan Batur</span><span className="text-xs text-zinc-500">SoundCloud · Parçalar ve kayıtlar</span></span></div><iframe title="Atakan Batur SoundCloud profili" width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/atakan-batur&color=%23ff5722&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=true" className="w-full" /><a href="https://soundcloud.com/atakan-batur" target="_blank" rel="noreferrer" className="mt-3 inline-block text-[10px] font-bold uppercase tracking-[1px] text-orange">SoundCloud profilini aç <ArrowUpRight className="ml-1 inline" size={13} /></a></article>
+          <article className="border border-white/10 bg-[#101114] p-5 sm:p-7"><div className="mb-5 flex items-center gap-3"><span className="grid h-10 w-10 place-items-center bg-racing/10 text-racing"><Youtube size={19} /></span><span><span className="block font-display text-xl font-bold uppercase">HSS Rock Band</span><span className="text-xs text-zinc-500">2018 Teaser · Live session</span></span></div><a href="https://www.youtube.com/results?search_query=HSS+Rock+Band+2018+Teaser" target="_blank" rel="noreferrer" className="group relative grid aspect-video place-items-center overflow-hidden bg-[linear-gradient(130deg,#25272a,#101114_65%)]"><span className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_rgba(229,9,20,.22),_transparent_55%)]" /><span className="relative grid h-14 w-14 place-items-center border border-white/40 bg-black/30 transition group-hover:scale-110 group-hover:border-orange"><Play size={20} fill="currentColor" /></span><span className="absolute bottom-4 left-4 text-[10px] font-bold uppercase tracking-[1.5px] text-zinc-300">Videoyu YouTube&apos;da izle</span></a></article>
+        </div>
+        <div className="mt-12">
+          <div className="mb-5 flex items-end justify-between"><div><span className="section-kicker">Arşivden</span><h3 className="mt-2 font-display text-2xl font-bold uppercase">Sahneden kareler.</h3></div><span className="text-[9px] uppercase tracking-[1px] text-zinc-600">Canlı müzik · Stüdyo · Konser</span></div>
+          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
+            {[
+              { label: "Canlı sahne", image: "photo-1506157786151-b8491531f063" },
+              { label: "Konser gecesi", image: "photo-1524368535928-5b5e00ddc76b" },
+              { label: "Kayıt stüdyosu", image: "photo-1511379938547-c1f69419868d" },
+            ].map(({ label, image }) => <div key={label} role="img" aria-label={label} className="group relative aspect-[1.45] overflow-hidden border border-white/10 bg-[#202124]"><span className="absolute inset-0 bg-cover bg-center transition duration-500 group-hover:scale-105" style={{ backgroundImage: `url(https://images.unsplash.com/${image}?auto=format&fit=crop&w=900&q=80)` }} /><span className="absolute inset-0 bg-gradient-to-t from-black/75 via-transparent to-transparent" /><span className="absolute bottom-3 left-3 text-[9px] font-bold uppercase tracking-[1px] text-white">{label}</span></div>)}
+          </div>
+        </div>
+        <div className="mt-5 flex flex-col gap-5 border-t border-white/10 pt-6 sm:flex-row sm:items-center sm:justify-between"><p className="max-w-lg text-sm leading-6 text-zinc-500">Fender, sahne ışıkları ve yüksek ses. HSS Rock Band ile yıllar boyunca kaydedilen anlar.</p><a href="https://www.youtube.com/results?search_query=Atakan+Batur+HSS+Rock+Band" target="_blank" rel="noreferrer" className="shrink-0 text-xs font-bold uppercase tracking-[1px] text-orange">Sahne arşivini keşfet <ArrowUpRight className="ml-1 inline" size={14} /></a></div>
+      </div>
+    </section>
+  );
+}
